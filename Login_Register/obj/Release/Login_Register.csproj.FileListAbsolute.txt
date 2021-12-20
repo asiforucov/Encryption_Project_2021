@@ -1,0 +1,13 @@
+C:\Users\asifo\source\repos\Login_Register\Login_Register\bin\Release\Login_Register.exe.config
+C:\Users\asifo\source\repos\Login_Register\Login_Register\bin\Release\Login_Register.exe
+C:\Users\asifo\source\repos\Login_Register\Login_Register\bin\Release\Login_Register.pdb
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.csproj.AssemblyReference.cache
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.txtComPassword.resources
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.frmLogin.resources
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.Properties.Resources.resources
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.csproj.GenerateResource.cache
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.csproj.CoreCompileInputs.cache
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.exe
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.pdb
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.Ceaser.resources
+C:\Users\asifo\source\repos\Login_Register\Login_Register\obj\Release\Login_Register.dashboard.resources
